@@ -1,3 +1,10 @@
+# Modified version
+This is a modified version of the original robosuite v1.4 with an added environment "lift_modded.py" that was found in [robosuite133](https://github.com/jeremy29tien/robosuite133/tree/9c7edc0df817b728ae83b62777389cc5434f33ae).
+
+Can follow the same [installation instructions](https://robosuite.ai/docs/installation.html).
+
+
+
 # robosuite
 
 ![gallery of_environments](docs/images/gallery.png)
